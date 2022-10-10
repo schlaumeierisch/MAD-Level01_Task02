@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task02</string>
+    <string name="title">Conjunction (AND)</string>
+    <string name="column_a">A</string>
+    <string name="column_b">B</string>
+    <string name="column_ab">A ^ B</string>
+    <string name="value_true">T</string>
+    <string name="value_false">F</string>
+    <string name="answer">T/F</string>
+    <string name="submit_button">Submit</string>
+</resources>
